@@ -38,5 +38,5 @@ display: inline;
 
 .profile{border-radius: 50%;
 border: 5px ridge red;
-box-shadow: 5px 5px 10pz 0 blue, width: 20%
+box-shadow: 5px 5px 10pz 0 blue; width: 20%
 }
