@@ -1,0 +1,42 @@
+body{text-align: center; background: linear-gradient(pink 20%, blue 80%)}
+.menu{
+        position: fixed;
+    background: rgb(243, 239, 235);
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+    background-color: aquamarine
+}
+
+li{list-style: none;
+display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: Lucida Grande;
+    font-size: 20px;
+}
+#name{ font-family: "Yuyu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 40px;
+}
+
+.menu a{text-decoration: none}
+
+.links:hover{
+    font-size: 25px;
+    font-family: Tahoma, monospace, Geneva, sans-serif;
+    background-color: aliceblue
+}
+
+.my_nav_bar
+{
+    position: sticky;
+    top:0;
+    z-index: 99999
+}
+
+.profile{border-radius: 50%;
+border: 5px ridge red;
+box-shadow: 5px 5px 10pz 0 blue, width: 20%
+}
